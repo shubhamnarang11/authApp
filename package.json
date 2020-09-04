@@ -17,7 +17,7 @@
     "mongoose": "^5.1.7",
     "passport": "^0.4.0",
     "passport-jwt": "^4.0.0",
-    "simple-crypto-js": "^2.0.2",
+    "simple-crypto-js": "^2.3.0",
     "bcryptjs": "*"
   }
 }
